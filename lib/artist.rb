@@ -17,7 +17,7 @@ def add_song(song)
 end
 
 def songs
-  @song
+  @songs
 end
 
 def add_song_by_name(name)
